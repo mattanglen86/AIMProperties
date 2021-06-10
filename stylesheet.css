@@ -1,5 +1,5 @@
 input {
-    width: 100%;
+    width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
@@ -8,7 +8,11 @@ input {
 
 label {
     color: #FFF;
-    
+    text-transform: uppercase;
+}
+
+#logo {
+    width: 50%;
 }
 
 body {
